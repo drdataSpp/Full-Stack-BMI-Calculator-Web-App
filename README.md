@@ -15,6 +15,8 @@ BMI calculator web app built using Node.js &amp; Javascript.
 4. initialize the npm: `npm init`
 5. Create a new HTML file: `touch index.html`
 6. Create a new styles sheet: `touch styles.css`
+7. Install Express.js: `npm install express`
+8. Install body parser: `npm install body-parser`
 
 ## Steps to set Express - Node.js web application framework
 
@@ -27,7 +29,7 @@ BMI calculator web app built using Node.js &amp; Javascript.
 
 ### To run the website
 After performing the above steps and editing the contents in HTML, CSS and Javascript files: <br>
-- Type:
+- Type in command prompt:
   - `node bmiCalculator.js` or
   - `nodemon bmiCalculator.js` 
   
